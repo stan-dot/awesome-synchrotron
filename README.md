@@ -5,7 +5,22 @@ Welcome to the **Awesome Synchrotron** repository—a comprehensive collection o
 
 ## 🔍 Overview
 
-Synchrotrons are powerful particle accelerators that produce intense beams of X-rays and other types of radiation. These beams are used in a wide range of scientific and industrial applications, including material science, biology, chemistry, and physics. This repository is structured into several categories to help you navigate the complex world of synchrotrons.
+Synchrotrons are particle accelerators that produce synchrotron radiation, a type of electromagnetic radiation emitted when charged particles travel at relativistic speeds through magnetic fields. This radiation is invaluable for a range of scientific applications, from materials science to biology.
+
+In addition to synchrotron facilities, there are related facilities like neutron sources and proton accelerators that utilize similar technology but with different particles. These facilities contribute to a broader understanding of matter and advance numerous fields of research.
+
+This repository is structured into several categories to help you navigate the complex world of synchrotrons.
+
+## 🏛️ 3D Tours
+
+Experience virtual tours of some of the leading synchrotron facilities and research centers around the world:
+
+- **[Diamond Light Source](https://www.diamond.ac.uk/Public/VisitUs/Virtual-Visit.html)**: Explore the UK’s national synchrotron science facility through an immersive virtual tour. Discover the various beamlines and learn about the cutting-edge research conducted at Diamond Light Source.
+
+- **[ELI Beamlines](https://www.eli-beams.eu/facility/virtual-tour/)**: Take a virtual tour of the Extreme Light Infrastructure (ELI) Beamlines facility in the Czech Republic. This facility focuses on high-intensity laser research and provides a glimpse into its state-of-the-art equipment and laboratories.
+
+These virtual tours offer a unique opportunity to explore and understand the inner workings of these advanced scientific facilities from the comfort of your own home.
+
 
 ### 🚀 Top-level Categories
 
@@ -121,9 +136,10 @@ Effective data acquisition is critical for synchrotron research. The following f
 - [Advanced Light Source (ALS)](https://lightsources.org/lightsources-of-the-world/americas/advanced-light-source-als/), USA
 - [Advanced Photon Source (APS)](https://lightsources.org/lightsources-of-the-world/americas/advanced-photon-source-aps/), USA
 - [BESSY II, Helmholtz-Zentrum Berlin (HZB)](https://lightsources.org/lightsources-of-the-world/europe/bessy-ii-helmholz-zentrum-berlin-hzb/), Germany
+- [Brazilian Synchrotron Light Laboratory (LNLS)](https://lightsources.org/lightsources-of-the-world/americas/brazilian-synchrotron-light-laboratory/), Brazil
 - [Cornell High Energy Synchrotron Source (CHESS)](https://lightsources.org/lightsources-of-the-world/americas/cornell-high-energy-synchrotron-source-chess/), USA
 - [European Synchrotron Radiation Facility (ESRF)](https://lightsources.org/lightsources-of-the-world/europe/esrf/), France
-- [Brazilian Synchrotron Light Laboratory (LNLS)](https://lightsources.org/lightsources-of-the-world/americas/brazilian-synchrotron-light-laboratory/), Brazil
+- [Diamond Light Source (DLS)](https://lightsources.org/lightsources-of-the-world/europe/diamond-light-source/), UK
 - [National Synchrotron Light Source II (NSLS-II)](https://lightsources.org/lightsources-of-the-world/americas/national-synchrotron-light-source-ii/), USA
 - [National Synchrotron Radiation Research Center (NSRRC)](https://lightsources.org/lightsources-of-the-world/asia-oceania/national-synchrotron-radiation-research-center/)
 - [Pohang Light Source II (PLS-II)](https://lightsources.org/lightsources-of-the-world/asia-oceania/pohang-light-source-ii-pls-ii/), South Korea
@@ -133,10 +149,7 @@ Effective data acquisition is critical for synchrotron research. The following f
 - [Synchrotron Solaris](https://lightsources.org/lightsources-of-the-world/europe/synchrotron-solaris/), Poland
 - [Stanford Synchrotron Radiation Lightsource (SSRL)](https://lightsources.org/lightsources-of-the-world/americas/stanford-synchrotron-radiation-lightsource-ssrl/), USA
 
-
 The synchrotrons above were listed for noticing their open source software efforts as noted below.
-
-Certainly! Here's a section addressing synchrotrons and related facilities, including those working with protons and neutron sources:
 
 
 #### Synchrotrons at Neutron Sources
