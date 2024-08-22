@@ -130,7 +130,7 @@ Effective data acquisition is critical for synchrotron research. The following f
 
 #### 🔗 Lightsources.org
 
-[Lightsources.org](https://lightsources.org/) provides a comprehensive list of light-makingsynchrotron facilities worldwide as [Lightsources of the World](https://lightsources.org/lightsources-of-the-world/):
+[Lightsources.org](https://lightsources.org/) provides a comprehensive list of light-making synchrotron facilities worldwide as [Lightsources of the World](https://lightsources.org/lightsources-of-the-world/):
 
 - [ALBA Synchrotron](https://lightsources.org/lightsources-of-the-world/europe/alba/), Spain
 - [Advanced Light Source (ALS)](https://lightsources.org/lightsources-of-the-world/americas/advanced-light-source-als/), USA
